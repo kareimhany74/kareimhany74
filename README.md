@@ -1,8 +1,7 @@
 # Hi, I'm Kareem Hany
 
-### IT & Data Science Student
-Passionate about unlocking insights from data, building predictive models, and exploring advanced computing domains. I specialize in training robust machine learning pipelines, deep sequential modeling, and applying data science to real-world business and sports analytics.
-
+### Data Analyst & Sports Analytics Enthusiast
+Passionate about uncovering insights from data, analyzing football events, and exploring geospatial domains. I specialize in turning raw corporate, spatial, and sports data into clear, interactive visualizations and actionable pipelines.
 ---
 
 ## Technical Skills & Tools
