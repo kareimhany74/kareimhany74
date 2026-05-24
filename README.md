@@ -16,7 +16,7 @@ Passionate about unlocking insights from data, building predictive models, and e
 ## Featured Projects
 *(Check out my repositories below for full code, data pipelines, and documentation)*
 
-### 1. [DE Student Scores Project](https://github.com/kareimhany74/DE-student-scores-project)
+### 1. [Student Scores Prediction](https://github.com/kareimhany74/student-scores-prediction)
 * **Description:** An end-to-end Machine Learning pipeline utilizing Decision Trees and Random Forests to predict student academic outcomes and final scores based on demographic and socioeconomic features.
 * **Keywords:** Machine Learning, EDA, Feature Engineering, Ensemble Methods.
 
