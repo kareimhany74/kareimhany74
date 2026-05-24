@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kareem Hany (Kimo)
+# 👋 Hi, I'm Kareem Hany
 
 ### 🎓 IT & Data Science Student
 Passionate about unlocking insights from data, building predictive models, and exploring advanced computing domains. I specialize in training robust machine learning pipelines, deep sequential modeling, and applying data science to real-world business and sports analytics.
