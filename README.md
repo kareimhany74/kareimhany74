@@ -8,14 +8,12 @@ From exploring datasets to building practical applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kareemhany74/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareimhany74@gmail.com)
-[![Try EstateIQ](https://img.shields.io/badge/Try_EstateIQ-D7B56D?style=for-the-badge&logo=vercel&logoColor=black)](https://estate-iq-five.vercel.app/)
 
 </div>
 
 ## 👨‍💻 About
 
-I'm a Data Science student based in Egypt, interested in machine learning, football analytics, and GIS. My projects explore property valuation, match event data, and forecasting through Python notebooks and interactive applications.
-
+Data Science Student focused on AI, Machine Learning, and building real-world data-driven solutions.
 ## 🚀 Featured Projects
 
 ### 01 · EstateIQ — Egyptian Property Intelligence
@@ -29,16 +27,16 @@ An Egyptian property valuation application combining **XGBoost**, a **FastAPI** 
 **Python · XGBoost · FastAPI · Pandas · Vercel**  
 [**Try the live app ↗**](https://estate-iq-five.vercel.app/) · [View code](https://github.com/kareimhany74/EstateIQ)
 
-### 02 · World Cup Final — Tactical Analytics
+### 02 · Student Scores Prediction — ML & Graph Neural Networks
 
-[![Argentina and France passes leading to shots, extracted from the project notebook](assets/worldcup-key-passes.png)](https://github.com/kareimhany74/worldcup-final-tactical-analytics)
+An end-to-end student performance prediction project exploring traditional machine learning, neural networks, fuzzy clustering, and Graph Neural Networks.
 
-Analyzing Argentina vs. France using StatsBomb event data, pitch maps, and player comparisons.
+Built a Graph Convolutional Network (GCN) with PyTorch Geometric to model relationships between students and predict exam performance through graph-based learning.
 
-**A finding from the notebook:** Ángel Di María leads the recorded shot-assist count with **4 passes leading to a shot**. The map above is an original notebook output; blue represents Argentina and red represents France.
+**Python · Scikit-learn · PyTorch · PyTorch Geometric · GNN · GCN**
 
-**Python · statsbombpy · mplsoccer · Matplotlib**  
-[Explore the notebook and visualizations ↗](https://github.com/kareimhany74/worldcup-final-tactical-analytics)
+[View the project ↗](https://github.com/kareimhany74/student-scores-prediction)
+
 
 ### 03 · Air Passengers — Time Series Forecasting
 
