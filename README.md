@@ -54,7 +54,7 @@ Comparing ARIMA, seasonal SARIMA, and an MLP regressor on monthly passenger dema
 <summary><b>More Projects</b></summary>
 
 
-optimization) — GIS coverage analysis case study.
+- [GIS Heliopolis Fire Stations Optimization](/kareimhany74/gis-heliopolis-fire-stations-optimization) — GIS coverage analysis case study.
 - [Online Food Delivery Analysis](https://github.com/kareimhany74/online-foods-delivery-analysis) — customer behavior analysis.
 - [Barcelona Players Fitness Analytics](https://github.com/kareimhany74/barca-players-fitness-analytics) — sports analytics notebooks.
 
