@@ -14,6 +14,9 @@ Building practical AI and Machine Learning solutions from data.
 ## 👨‍💻 About
 
 Data Science Student focused on AI, Machine Learning, and building real-world data-driven solutions.
+
+I work across data analysis, predictive modeling, deep learning, and deploying ML applications through APIs.
+
 ## 🚀 Featured Projects
 
 ### 01 · EstateIQ — Egyptian Property Intelligence
