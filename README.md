@@ -73,7 +73,7 @@ Tools I use across my projects and studies.
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 📊 Visualization, Sports & GIS
+### 📊 Visualization & Analytics
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![StatsBomb](https://img.shields.io/badge/StatsBomb-E03C31?style=for-the-badge) ![mplsoccer](https://img.shields.io/badge/mplsoccer-237A57?style=for-the-badge) ![ArcMap](https://img.shields.io/badge/ArcMap-2C7AC3?style=for-the-badge) ![GIS](https://img.shields.io/badge/GIS-3D9970?style=for-the-badge)
 
@@ -96,4 +96,4 @@ Tools I use across my projects and studies.
 
 ## 🔗 Connect
 
-Interested in discussing data science, football analytics, or a project? Find me on [LinkedIn](https://www.linkedin.com/in/kareemhany74/) or [email me](mailto:kareimhany74@gmail.com).
+Interested in discussing Data Science, AI, Machine Learning, or a project? Find me on [LinkedIn](https://www.linkedin.com/in/kareemhany74/) or [email me](mailto:kareimhany74@gmail.com).
