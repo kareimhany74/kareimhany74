@@ -50,8 +50,8 @@ Comparing ARIMA, seasonal SARIMA, and an MLP regressor on monthly passenger dema
 <details>
 <summary><b>More projects — prediction, business analytics & GIS</b></summary>
 
-- [Student Scores Prediction](https://github.com/kareimhany74/student-scores-prediction) — regression and classification experiments.
-- [Heliopolis Fire Stations](https://github.com/kareimhany74/gis-heliopolis-fire-stations-optimization) — GIS coverage analysis case study.
+
+optimization) — GIS coverage analysis case study.
 - [Online Food Delivery Analysis](https://github.com/kareimhany74/online-foods-delivery-analysis) — customer behavior analysis.
 - [Barcelona Players Fitness Analytics](https://github.com/kareimhany74/barca-players-fitness-analytics) — sports analytics notebooks.
 
