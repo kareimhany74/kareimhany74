@@ -4,7 +4,7 @@
 
 ### Data Science Student | AI & Machine Learning Engineer
 
-From exploring datasets to building practical applications.
+Building practical AI and Machine Learning solutions from data.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kareemhany74/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareimhany74@gmail.com)
