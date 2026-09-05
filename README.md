@@ -88,18 +88,7 @@ Tools I use across my projects and studies.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
 
-<details>
-<summary>Repository counts & contribution activity</summary>
-
-[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkareimhany74&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=3776AB&logo=github)](https://github.com/kareimhany74?tab=repositories)
-[![GitHub followers](https://img.shields.io/github/followers/kareimhany74?style=for-the-badge&label=Followers&color=238636&logo=github)](https://github.com/kareimhany74?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/kareimhany74?style=for-the-badge&label=Total%20stars&color=E3B341&logo=github)](https://github.com/kareimhany74?tab=repositories)
-
-[View my contribution activity →](https://github.com/kareimhany74#year-list-container)
-
-</details>
 
 ## 🔗 Connect
 
