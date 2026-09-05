@@ -48,7 +48,7 @@ Comparing ARIMA, seasonal SARIMA, and an MLP regressor on monthly passenger dema
 [View the forecasting notebook ↗](https://github.com/kareimhany74/air-passengers-time-series)
 
 <details>
-<summary><b>More projects — prediction, business analytics & GIS</b></summary>
+<summary><b>More Projects</b></summary>
 
 
 optimization) — GIS coverage analysis case study.
@@ -72,10 +72,14 @@ Tools I use across my projects and studies.
 ### 🧠 Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 📊 Visualization & Analytics
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![StatsBomb](https://img.shields.io/badge/StatsBomb-E03C31?style=for-the-badge) ![mplsoccer](https://img.shields.io/badge/mplsoccer-237A57?style=for-the-badge) ![ArcMap](https://img.shields.io/badge/ArcMap-2C7AC3?style=for-the-badge) ![GIS](https://img.shields.io/badge/GIS-3D9970?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🚀 APIs & Deployment
 
