@@ -2,7 +2,7 @@
 
 # Hi, I'm Kareem Hany 👋
 
-### Data Science Student · Machine Learning · Sports & Geospatial Analytics
+### Data Science Student | AI & Machine Learning Engineer
 
 From exploring datasets to building practical applications.
 
