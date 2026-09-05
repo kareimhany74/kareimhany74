@@ -4,29 +4,60 @@
 
 ### Data Science Student · Machine Learning · Sports & Geospatial Analytics
 
-Exploring real-world questions through data, models, and clear visual stories.
-
-[LinkedIn](https://www.linkedin.com/in/kareemhany74/) · [Explore my projects](https://github.com/kareimhany74?tab=repositories)
-
-</div>
-
----
-
-## 👨‍💻 About
-
-I'm a Data Science student based in Egypt, interested in machine learning, football data analysis, business analytics, and GIS.
-
-- 🏠 Building **EstateIQ**, an Egyptian property valuation and market analysis project.
-- ⚽ Exploring football event data through shot maps, expected goals, and tactical visualizations.
-- 📈 Working on predictive modeling, time series forecasting, and spatial analysis.
-- 🔎 Turning datasets into reproducible notebooks and practical applications.
-
-## 🔗 Connect
+From exploring datasets to building practical applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kareemhany74/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareimhany74@gmail.com)
+[![Try EstateIQ](https://img.shields.io/badge/Try_EstateIQ-D7B56D?style=for-the-badge&logo=vercel&logoColor=black)](https://estate-iq-five.vercel.app/)
 
----
+</div>
+
+## 👨‍💻 About
+
+I'm a Data Science student based in Egypt, interested in machine learning, football analytics, and GIS. My projects explore property valuation, match event data, and forecasting through Python notebooks and interactive applications.
+
+## 🚀 Featured Projects
+
+### 01 · EstateIQ — Egyptian Property Intelligence
+
+[![EstateIQ live application interface](assets/estateiq-dashboard.png)](https://estate-iq-five.vercel.app/)
+
+An Egyptian property valuation application combining **XGBoost**, a **FastAPI** service, prediction explanations, and an interactive market dashboard.
+
+**What it delivers:** property estimates with market context and an indicative valuation range; the live dashboard explores **18,620 cleaned listings**.
+
+**Python · XGBoost · FastAPI · Pandas · Vercel**  
+[**Try the live app ↗**](https://estate-iq-five.vercel.app/) · [View code](https://github.com/kareimhany74/EstateIQ)
+
+### 02 · World Cup Final — Tactical Analytics
+
+[![Argentina and France passes leading to shots, extracted from the project notebook](assets/worldcup-key-passes.png)](https://github.com/kareimhany74/worldcup-final-tactical-analytics)
+
+Analyzing Argentina vs. France using StatsBomb event data, pitch maps, and player comparisons.
+
+**A finding from the notebook:** Ángel Di María leads the recorded shot-assist count with **4 passes leading to a shot**. The map above is an original notebook output; blue represents Argentina and red represents France.
+
+**Python · statsbombpy · mplsoccer · Matplotlib**  
+[Explore the notebook and visualizations ↗](https://github.com/kareimhany74/worldcup-final-tactical-analytics)
+
+### 03 · Air Passengers — Time Series Forecasting
+
+Comparing ARIMA, seasonal SARIMA, and an MLP regressor on monthly passenger demand.
+
+**Recorded result:** SARIMA achieved **MAE 23.56** and **RMSE 30.14**, in thousands of passengers, on the final **29 months** of the dataset using a chronological 80/20 split. Results are taken from the saved notebook evaluation.
+
+**Python · Statsmodels · Scikit-learn · Pandas**  
+[View the forecasting notebook ↗](https://github.com/kareimhany74/air-passengers-time-series)
+
+<details>
+<summary><b>More projects — prediction, business analytics & GIS</b></summary>
+
+- [Student Scores Prediction](https://github.com/kareimhany74/student-scores-prediction) — regression and classification experiments.
+- [Heliopolis Fire Stations](https://github.com/kareimhany74/gis-heliopolis-fire-stations-optimization) — GIS coverage analysis case study.
+- [Online Food Delivery Analysis](https://github.com/kareimhany74/online-foods-delivery-analysis) — customer behavior analysis.
+- [Barcelona Players Fitness Analytics](https://github.com/kareimhany74/barca-players-fitness-analytics) — sports analytics notebooks.
+
+</details>
 
 ## 🛠️ Technical Stack
 
@@ -52,53 +83,19 @@ Tools I use across my projects and studies.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🏠 [EstateIQ — Property Intelligence](https://github.com/kareimhany74/EstateIQ)
-
-Egyptian property valuation with an XGBoost model, a FastAPI service, an interactive market dashboard, and prediction explanations.
-
-**Stack:** Python · XGBoost · FastAPI · Pandas  
-[View repository →](https://github.com/kareimhany74/EstateIQ)
-
-### ⚽ [World Cup Final Tactical Analytics](https://github.com/kareimhany74/worldcup-final-tactical-analytics)
-
-Exploring Argentina vs. France through StatsBomb event data, shot maps, cumulative xG, and pitch visualizations.
-
-**Stack:** Python · statsbombpy · mplsoccer · Matplotlib  
-[Explore the analysis →](https://github.com/kareimhany74/worldcup-final-tactical-analytics)
-
-### 📈 [Air Passengers Time Series](https://github.com/kareimhany74/air-passengers-time-series)
-
-Analyzing seasonality and forecasting passenger demand with ARIMA, SARIMAX, and an MLP regressor.
-
-**Stack:** Python · Statsmodels · Scikit-learn · Pandas  
-[Explore the notebook →](https://github.com/kareimhany74/air-passengers-time-series)
-
-### 🎓 [Student Scores Prediction](https://github.com/kareimhany74/student-scores-prediction)
-
-Exploratory analysis and predictive modeling of student outcomes, including decision trees and random forests for regression and classification.
-
-**Stack:** Python · Scikit-learn · Pandas · Matplotlib  
-[Explore the models →](https://github.com/kareimhany74/student-scores-prediction)
-
-### 🗺️ [Heliopolis Fire Stations — GIS Case Study](https://github.com/kareimhany74/gis-heliopolis-fire-stations-optimization)
-
-A spatial analysis case study exploring fire station coverage and proposed locations in Heliopolis, Egypt.
-
-**Tools:** ArcMap · Buffer Analysis · Spatial Analysis  
-[View the case study →](https://github.com/kareimhany74/gis-heliopolis-fire-stations-optimization)
-
-**More to explore:** [Online Food Delivery Analysis](https://github.com/kareimhany74/online-foods-delivery-analysis) · [Barcelona Players Fitness Analytics](https://github.com/kareimhany74/barca-players-fitness-analytics)
-
----
-
 ## 📊 GitHub Stats
+
+<details>
+<summary>Repository counts & contribution activity</summary>
 
 [![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkareimhany74&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=3776AB&logo=github)](https://github.com/kareimhany74?tab=repositories)
 [![GitHub followers](https://img.shields.io/github/followers/kareimhany74?style=for-the-badge&label=Followers&color=238636&logo=github)](https://github.com/kareimhany74?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/kareimhany74?style=for-the-badge&label=Total%20stars&color=E3B341&logo=github)](https://github.com/kareimhany74?tab=repositories)
 
 [View my contribution activity →](https://github.com/kareimhany74#year-list-container)
+
+</details>
+
+## 🔗 Connect
+
+Interested in discussing data science, football analytics, or a project? Find me on [LinkedIn](https://www.linkedin.com/in/kareemhany74/) or [email me](mailto:kareimhany74@gmail.com).
